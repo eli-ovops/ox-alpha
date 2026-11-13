@@ -1,0 +1,10 @@
+runtime/codex-home/auth.json
+runtime/codex-home/log/
+runtime/codex-home/logs/
+runtime/codex-home/sessions/
+runtime/codex-home/history/
+runtime/codex-home/*.sqlite
+runtime/codex-home/**/*.sqlite
+.env
+.env.*
+*.log
